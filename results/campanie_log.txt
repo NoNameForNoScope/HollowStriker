@@ -1,0 +1,111 @@
+  URBAN        meciul  1/20: 7 runde, 1760 s simulate
+  URBAN        meciul  2/20: 7 runde, 1760 s simulate
+  URBAN        meciul  3/20: 7 runde, 1760 s simulate
+  URBAN        meciul  4/20: 7 runde, 1764 s simulate
+  URBAN        meciul  5/20: 6 runde, 1458 s simulate
+  URBAN        meciul  6/20: 5 runde, 1151 s simulate
+  URBAN        meciul  7/20: 6 runde, 1299 s simulate
+  URBAN        meciul  8/20: 6 runde, 1394 s simulate
+  URBAN        meciul  9/20: 5 runde, 1088 s simulate
+  URBAN        meciul 10/20: 4 runde, 782 s simulate
+  URBAN        meciul 11/20: 5 runde, 1011 s simulate
+  URBAN        meciul 12/20: 4 runde, 705 s simulate
+  URBAN        meciul 13/20: 4 runde, 846 s simulate
+  URBAN        meciul 14/20: 4 runde, 582 s simulate
+  URBAN        meciul 15/20: 3 runde, 276 s simulate
+  URBAN        meciul 16/20: 3 runde, 257 s simulate
+  URBAN        meciul 17/20: 5 runde, 875 s simulate
+  URBAN        meciul 18/20: 5 runde, 1001 s simulate
+  URBAN        meciul 19/20: 7 runde, 1877 s simulate
+  URBAN        meciul 20/20: 7 runde, 1877 s simulate
+URBAN: 0 victorii din 20 meciuri
+  INDUSTRIAL   meciul  1/20: 3 runde, 577 s simulate
+  INDUSTRIAL   meciul  2/20: 3 runde, 439 s simulate
+  INDUSTRIAL   meciul  3/20: 3 runde, 508 s simulate
+  INDUSTRIAL   meciul  4/20: 7 runde, 1887 s simulate
+  INDUSTRIAL   meciul  5/20: 7 runde, 2108 s simulate
+  INDUSTRIAL   meciul  6/20: 7 runde, 2142 s simulate
+  INDUSTRIAL   meciul  7/20: 7 runde, 2142 s simulate
+  INDUSTRIAL   meciul  8/20: 7 runde, 2142 s simulate
+  INDUSTRIAL   meciul  9/20: 7 runde, 2142 s simulate
+  INDUSTRIAL   meciul 10/20: 7 runde, 2142 s simulate
+  INDUSTRIAL   meciul 11/20: 7 runde, 2142 s simulate
+  INDUSTRIAL   meciul 12/20: 7 runde, 2142 s simulate
+  INDUSTRIAL   meciul 13/20: 7 runde, 2142 s simulate
+  INDUSTRIAL   meciul 14/20: 7 runde, 2142 s simulate
+  INDUSTRIAL   meciul 15/20: 7 runde, 2142 s simulate
+  INDUSTRIAL   meciul 16/20: 7 runde, 2129 s simulate
+  INDUSTRIAL   meciul 17/20: 7 runde, 2129 s simulate
+  INDUSTRIAL   meciul 18/20: 7 runde, 2112 s simulate
+  INDUSTRIAL   meciul 19/20: 7 runde, 2112 s simulate
+  INDUSTRIAL   meciul 20/20: 7 runde, 2112 s simulate
+INDUSTRIAL: 10 victorii din 20 meciuri
+  REZIDENTIAL  meciul  1/20: 7 runde, 2128 s simulate
+  REZIDENTIAL  meciul  2/20: 7 runde, 2128 s simulate
+  REZIDENTIAL  meciul  3/20: 7 runde, 2142 s simulate
+  REZIDENTIAL  meciul  4/20: 7 runde, 2142 s simulate
+  REZIDENTIAL  meciul  5/20: 7 runde, 2142 s simulate
+  REZIDENTIAL  meciul  6/20: 7 runde, 2142 s simulate
+  REZIDENTIAL  meciul  7/20: 7 runde, 2142 s simulate
+  REZIDENTIAL  meciul  8/20: 7 runde, 2142 s simulate
+  REZIDENTIAL  meciul  9/20: 7 runde, 2142 s simulate
+  REZIDENTIAL  meciul 10/20: 7 runde, 2142 s simulate
+  REZIDENTIAL  meciul 11/20: 7 runde, 2142 s simulate
+  REZIDENTIAL  meciul 12/20: 7 runde, 2142 s simulate
+  REZIDENTIAL  meciul 13/20: 7 runde, 2135 s simulate
+  REZIDENTIAL  meciul 14/20: 7 runde, 2135 s simulate
+  REZIDENTIAL  meciul 15/20: 7 runde, 1968 s simulate
+  REZIDENTIAL  meciul 16/20: 7 runde, 1968 s simulate
+  REZIDENTIAL  meciul 17/20: 7 runde, 1968 s simulate
+  REZIDENTIAL  meciul 18/20: 7 runde, 1692 s simulate
+  REZIDENTIAL  meciul 19/20: 6 runde, 1386 s simulate
+  REZIDENTIAL  meciul 20/20: 7 runde, 1700 s simulate
+REZIDENTIAL: 0 victorii din 20 meciuri
+  TACTIC MARE  meciul  1/20: 3 runde, 105 s simulate
+  TACTIC MARE  meciul  2/20: 3 runde, 102 s simulate
+  TACTIC MARE  meciul  3/20: 3 runde, 100 s simulate
+  TACTIC MARE  meciul  4/20: 3 runde, 102 s simulate
+  TACTIC MARE  meciul  5/20: 3 runde, 105 s simulate
+  TACTIC MARE  meciul  6/20: 4 runde, 148 s simulate
+  TACTIC MARE  meciul  7/20: 3 runde, 93 s simulate
+  TACTIC MARE  meciul  8/20: 3 runde, 97 s simulate
+  TACTIC MARE  meciul  9/20: 3 runde, 106 s simulate
+  TACTIC MARE  meciul 10/20: 3 runde, 103 s simulate
+  TACTIC MARE  meciul 11/20: 3 runde, 103 s simulate
+  TACTIC MARE  meciul 12/20: 3 runde, 115 s simulate
+  TACTIC MARE  meciul 13/20: 3 runde, 98 s simulate
+  TACTIC MARE  meciul 14/20: 4 runde, 150 s simulate
+  TACTIC MARE  meciul 15/20: 3 runde, 103 s simulate
+  TACTIC MARE  meciul 16/20: 3 runde, 116 s simulate
+  TACTIC MARE  meciul 17/20: 3 runde, 110 s simulate
+  TACTIC MARE  meciul 18/20: 3 runde, 112 s simulate
+  TACTIC MARE  meciul 19/20: 3 runde, 102 s simulate
+  TACTIC MARE  meciul 20/20: 3 runde, 106 s simulate
+TACTIC MARE: 20 victorii din 20 meciuri
+  COMPLEX      meciul  1/20: 7 runde, 1519 s simulate
+  COMPLEX      meciul  2/20: 6 runde, 1213 s simulate
+  COMPLEX      meciul  3/20: 7 runde, 1536 s simulate
+  COMPLEX      meciul  4/20: 7 runde, 1252 s simulate
+  COMPLEX      meciul  5/20: 7 runde, 1094 s simulate
+  COMPLEX      meciul  6/20: 6 runde, 988 s simulate
+  COMPLEX      meciul  7/20: 5 runde, 682 s simulate
+  COMPLEX      meciul  8/20: 4 runde, 651 s simulate
+  COMPLEX      meciul  9/20: 5 runde, 737 s simulate
+  COMPLEX      meciul 10/20: 4 runde, 431 s simulate
+  COMPLEX      meciul 11/20: 5 runde, 768 s simulate
+  COMPLEX      meciul 12/20: 6 runde, 1010 s simulate
+  COMPLEX      meciul 13/20: 5 runde, 844 s simulate
+  COMPLEX      meciul 14/20: 7 runde, 1540 s simulate
+  COMPLEX      meciul 15/20: 7 runde, 1304 s simulate
+  COMPLEX      meciul 16/20: 7 runde, 1510 s simulate
+  COMPLEX      meciul 17/20: 6 runde, 1204 s simulate
+  COMPLEX      meciul 18/20: 5 runde, 1120 s simulate
+  COMPLEX      meciul 19/20: 4 runde, 814 s simulate
+  COMPLEX      meciul 20/20: 4 runde, 739 s simulate
+COMPLEX: 8 victorii din 20 meciuri
+
+Campanie: 100 meciuri, 550 runde, 124821 s simulate (0 oprite la plafon) -> results/campanie
+
+real	5m27.147s
+user	0m0.000s
+sys	0m0.000s

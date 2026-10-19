@@ -1,0 +1,70 @@
+
+== STRES -> PRECIZIE  (stress, 5 niveluri x 10 replicari)
+   Scade precizia cand creste stresul?
+   0        n=10  accuracy       69.000  +- 6.263 (IC95)
+   0.25     n=10  accuracy       67.000  +- 8.630 (IC95)
+   0.50     n=10  accuracy       59.000  +- 7.872 (IC95)
+   0.75     n=10  accuracy       49.500  +- 7.624 (IC95)
+   1        n=10  accuracy       40.500  +- 9.604 (IC95)
+   regresie: panta -29.8000  r=-0.695  p=0.0000  (50 probe)
+
+== SPRINT -> PRECIZIE  (sprint, 4 niveluri x 10 replicari)
+   Sprintul dinaintea tragerii reduce precizia?
+   0        n=10  accuracy       71.333  +- 8.121 (IC95)
+   4        n=10  accuracy       54.667  +- 7.037 (IC95)
+   8        n=10  accuracy       41.333  +- 10.252 (IC95)
+   16       n=10  accuracy       47.333  +- 6.535 (IC95)
+   regresie: panta -1.4000  r=-0.532  p=0.0004  (40 probe)
+
+== PULS -> STABILITATEA ARMEI  (hr, 5 niveluri x 8 replicari)
+   Pulsul ridicat creste instabilitatea armei?
+   70       n=8   sway_rms        1.127  +- 0.012 (IC95)
+   100      n=8   sway_rms        1.205  +- 0.012 (IC95)
+   130      n=8   sway_rms        1.298  +- 0.010 (IC95)
+   160      n=8   sway_rms        1.322  +- 0.011 (IC95)
+   180      n=8   sway_rms        1.307  +- 0.012 (IC95)
+   regresie: panta 0.0017  r=0.915  p=0.0000  (40 probe)
+
+== DISTANTA -> PRECIZIE  (distance, 4 niveluri x 8 replicari)
+   Distanta de angajare afecteaza precizia?
+   10       n=8   accuracy      100.000  +- 0.000 (IC95)
+   25       n=8   accuracy      100.000  +- 0.000 (IC95)
+   50       n=8   accuracy       94.167  +- 1.971 (IC95)
+   100      n=8   accuracy       52.500  +- 10.077 (IC95)
+   regresie: panta -0.5515  r=-0.911  p=0.0000  (32 probe)
+
+== PRECIZIA ARMELOR  (weapon, 5 niveluri x 8 replicari)
+   Care arma are cea mai buna precizie?
+   MK18     n=8   accuracy       94.167  +- 1.971 (IC95)
+   MP5      n=8   accuracy       60.833  +- 10.508 (IC95)
+   G17      n=8   accuracy       94.167  +- 1.971 (IC95)
+   M870     n=8   accuracy       12.500  +- 6.277 (IC95)
+   M24      n=8   accuracy       86.667  +- 0.000 (IC95)
+   factor categorial (40 probe): comparatie pe niveluri
+
+== OBOSEALA -> REINCARCARE  (fatigue, 5 niveluri x 6 replicari)
+   Oboseala creste timpul de reincarcare?
+   0        n=6   reload_mean     2.203  +- 0.057 (IC95)
+   0.25     n=6   reload_mean     2.331  +- 0.059 (IC95)
+   0.50     n=6   reload_mean     2.476  +- 0.058 (IC95)
+   0.75     n=6   reload_mean     2.642  +- 0.060 (IC95)
+   1        n=6   reload_mean     2.831  +- 0.062 (IC95)
+   regresie: panta 0.6267  r=0.971  p=0.0000  (30 probe)
+
+== BRAT RANIT -> STABILITATE  (arm_injury, 4 niveluri x 8 replicari)
+   Rana la brat creste instabilitatea armei?
+   0        n=8   sway_rms        1.129  +- 0.012 (IC95)
+   0.30     n=8   sway_rms        1.557  +- 0.019 (IC95)
+   0.60     n=8   sway_rms        2.071  +- 0.030 (IC95)
+   0.90     n=8   sway_rms        2.764  +- 0.045 (IC95)
+   regresie: panta 1.8058  r=0.992  p=0.0000  (32 probe)
+
+== MARIMEA TINTEI -> PRECIZIE  (size, 3 niveluri x 8 replicari)
+   Cat depinde precizia de marimea tintei?
+   S        n=8   accuracy       70.000  +- 10.322 (IC95)
+   M        n=8   accuracy       94.167  +- 1.971 (IC95)
+   L        n=8   accuracy       98.333  +- 2.580 (IC95)
+   factor categorial (24 probe): comparatie pe niveluri
+
+Rezultate adaugate in results/campanie/experiments.csv
+cronologie: 1104 esantioane -> results/campanie/fiziologie_cronologie.csv
